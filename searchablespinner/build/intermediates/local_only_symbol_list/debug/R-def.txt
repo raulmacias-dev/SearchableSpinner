@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+attr? closeText
+attr? dialogTitle
+drawable ic_baseline_search_24
+id listView
+id searchView
+layout search_dialog
+string search_dialog_close
+string search_dialog_title
+styleable SearchableSpinner closeText dialogTitle

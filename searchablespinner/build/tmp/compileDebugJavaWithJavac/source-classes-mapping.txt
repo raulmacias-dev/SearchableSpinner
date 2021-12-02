@@ -1,0 +1,4 @@
+com/raulmacias/searchablespinner/BuildConfig.java
+ com.raulmacias.searchablespinner.BuildConfig
+com/raulmacias/searchablespinner/databinding/SearchDialogBinding.java
+ com.raulmacias.searchablespinner.databinding.SearchDialogBinding
