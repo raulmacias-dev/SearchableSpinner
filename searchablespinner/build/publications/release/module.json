@@ -42,11 +42,11 @@
         {
           "name": "searchablespinner-1.0.aar",
           "url": "searchablespinner-1.0.aar",
-          "size": 49860,
-          "sha512": "51a305bd7c4af70edc5cca70dc078ce63e87b4875c03df1461313b84af6c4358db4bfcdbcbaeb54b549a7951220f6ba3c291d043c9c9bdd3e19b2afe23c17584",
-          "sha256": "91f80aef19d20a8e50f6c522ce4a93985f413d4caa1456d2846afe2dea2ceb3f",
-          "sha1": "98f07c0959f7ddb6acdce6aabcde0610ebe92787",
-          "md5": "87318492ab0f47239a2a2ee5613814bc"
+          "size": 49858,
+          "sha512": "f9d93ca2d06e18cd9033381852e38c948dad501c7b4836819e29e054771cdd0f22f589d6c455a11c204adc1be0b3dc805fd2b1a759b0a73652bb8381de73b110",
+          "sha256": "6b479a59faa37685a6663897c73b173ae41267c4cccb66825d953527cda8651f",
+          "sha1": "49d15f413f314592a0ca2085f3ce7fc9faf1ad8b",
+          "md5": "de7b8905b4dd15159b8e5c63c1d6e5d9"
         }
       ]
     },
@@ -99,11 +99,11 @@
         {
           "name": "searchablespinner-1.0.aar",
           "url": "searchablespinner-1.0.aar",
-          "size": 49860,
-          "sha512": "51a305bd7c4af70edc5cca70dc078ce63e87b4875c03df1461313b84af6c4358db4bfcdbcbaeb54b549a7951220f6ba3c291d043c9c9bdd3e19b2afe23c17584",
-          "sha256": "91f80aef19d20a8e50f6c522ce4a93985f413d4caa1456d2846afe2dea2ceb3f",
-          "sha1": "98f07c0959f7ddb6acdce6aabcde0610ebe92787",
-          "md5": "87318492ab0f47239a2a2ee5613814bc"
+          "size": 49858,
+          "sha512": "f9d93ca2d06e18cd9033381852e38c948dad501c7b4836819e29e054771cdd0f22f589d6c455a11c204adc1be0b3dc805fd2b1a759b0a73652bb8381de73b110",
+          "sha256": "6b479a59faa37685a6663897c73b173ae41267c4cccb66825d953527cda8651f",
+          "sha1": "49d15f413f314592a0ca2085f3ce7fc9faf1ad8b",
+          "md5": "de7b8905b4dd15159b8e5c63c1d6e5d9"
         }
       ]
     }
