@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_dialog_close">Cerrar</string>
+    <string name="search_dialog_title">Seleccione item…</string>
+    <declare-styleable name="SearchableSpinner">
+        <attr format="string" name="closeText"/>
+        <attr format="string" name="dialogTitle"/>
+    </declare-styleable>
+</resources>

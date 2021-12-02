@@ -1,0 +1,111 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.raulmacias",
+    "module": "searchablespinner",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "7.0.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "searchablespinner-1.0.aar",
+          "url": "searchablespinner-1.0.aar",
+          "size": 49860,
+          "sha512": "51a305bd7c4af70edc5cca70dc078ce63e87b4875c03df1461313b84af6c4358db4bfcdbcbaeb54b549a7951220f6ba3c291d043c9c9bdd3e19b2afe23c17584",
+          "sha256": "91f80aef19d20a8e50f6c522ce4a93985f413d4caa1456d2846afe2dea2ceb3f",
+          "sha1": "98f07c0959f7ddb6acdce6aabcde0610ebe92787",
+          "md5": "87318492ab0f47239a2a2ee5613814bc"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "7.0.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "searchablespinner-1.0.aar",
+          "url": "searchablespinner-1.0.aar",
+          "size": 49860,
+          "sha512": "51a305bd7c4af70edc5cca70dc078ce63e87b4875c03df1461313b84af6c4358db4bfcdbcbaeb54b549a7951220f6ba3c291d043c9c9bdd3e19b2afe23c17584",
+          "sha256": "91f80aef19d20a8e50f6c522ce4a93985f413d4caa1456d2846afe2dea2ceb3f",
+          "sha1": "98f07c0959f7ddb6acdce6aabcde0610ebe92787",
+          "md5": "87318492ab0f47239a2a2ee5613814bc"
+        }
+      ]
+    }
+  ]
+}
